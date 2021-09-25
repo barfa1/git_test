@@ -8,6 +8,8 @@ public class CalculateJava {
 		
 		//adding changes to file for tracking changes using git diff
 		System.out.println("Adding Changes ");
+		
+		System.out.println("this change has been  made from feature_one ");
 
 	}
 
